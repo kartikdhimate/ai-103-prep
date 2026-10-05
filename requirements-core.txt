@@ -1,0 +1,13 @@
+# Tier A: declare Python 3.14 support (checked on PyPI 2026-10-04)
+azure-ai-projects>=2.3.0
+azure-identity
+openai
+agent-framework
+azure-monitor-opentelemetry
+opentelemetry-sdk
+pydantic
+python-dotenv
+
+# Tier B: no 3.14 classifier, smoke-tested on 3.14 (import + install). Run scripts/compat_check.py on Day 1.
+azure-search-documents
+azure-ai-contentsafety

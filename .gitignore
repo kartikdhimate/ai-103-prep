@@ -1,0 +1,17 @@
+# Python
+.venv/
+.venv313/
+.venv311/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets and local config
+.env
+*.key
+*.pem
+
+# Lab outputs
+out/
+*.log
+.DS_Store

@@ -1,0 +1,8 @@
+# Install per day, not all at once. All Tier B (no 3.14 classifier); see scripts/compat_check.py and README fallback.
+azure-ai-evaluation            # Day 5, 11. Fallback: Python 3.11 venv
+azure-ai-documentintelligence  # Day 13
+azure-ai-contentunderstanding==1.1.0  # Day 13-14. Pinned: pip may otherwise pick a pre-release
+azure-ai-vision-imageanalysis  # Day 14
+azure-ai-textanalytics         # Day 16
+azure-ai-translation-text      # Day 16
+azure-cognitiveservices-speech # Day 17. No declared Python versions; fallback 3.13 venv
