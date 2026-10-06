@@ -83,9 +83,9 @@ Theory (15 min):
 **Step 3: Role (6 min).** Find the resource ID, then grant yourself the data-plane role. The role name below is the one expected on the RBAC page; confirm it there.
 
 ```powershell
-az cognitiveservices account list -g rg-ai103-prep --query "[].{name:name,id:id}" -o table
+az cognitiveservices account list -g rg-ai103-prep --query "[].{name:name,id:id}"
 $scope = "<resource id from above>"
-az role assignment create --assignee "<your sign-in name>" --role "Azure AI User" --scope $scope
+az role assignment create --assignee "<your sign-in name>" --role "Foundry User" --scope $scope
 ```
 
 Role changes can take a few minutes to apply.
