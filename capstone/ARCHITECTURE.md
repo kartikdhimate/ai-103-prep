@@ -153,8 +153,8 @@ Prep reality: the course uses a local CLI and Free/F0 tiers; this diagram is the
 
 | Task | Model | Reason | Estimated cost per 1,000 requests |
 |---|---|---|---|
-| Grounded answer | | | |
-| Classification | | | |
+| Grounded answer | gpt-5-mini| Provides grounded and relevant result| 0.00039|
+| Classification | gpt-5-nano| Provided correct classification with low cost| 0.000078|
 | Embeddings | | | |
 | Image understanding | | | |
 
