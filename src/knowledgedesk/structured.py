@@ -11,3 +11,8 @@ class Ticket(BaseModel):
 class Critique(BaseModel):
     score: int
     issues: list[str]
+
+class Decision(BaseModel):
+    allowed: bool
+    reason: str
+    categories: list[tuple[str, int]] | None
