@@ -1,0 +1,10 @@
+{"question":"How many paid annual leave days does a full-time employee receive each calendar year, and by what date must carried-over days be used?","docid":"leavepolicy"}
+{"question":"What is the maximum daily meal reimbursement, and how much may an employee claim for a hotel night in Finland before an exception is required?","docid":"expenselimits"}
+{"question":"What is the initial response target for a P1 support incident, and how frequently must the customer receive updates?","docid":"supportslas"}
+{"question":"How long must CFS retain field maintenance reports after completion, and who owns the data retention policy?","docid":"dataretention"}
+{"question":"By what time must IT prepare a new employee's laptop before the start date, and on which working day must the first manager check-in occur?","docid":"onboarding"}
+{"question":"Within how many minutes should an employee report a lost company laptop whenever reasonably possible, and who must be notified of every SEV-1 incident within 30 minutes of classification?","docid":"securityincidentprocess"}
+{"question":"What is the maximum standard laptop loan period, and which additional approval is required for equipment valued above €1,500?","docid":"equipmentloans"}
+{"question":"How many business days before departure must international travel be approved, and who must approve it in addition to the department director?","docid":"travel"}
+{"question":"Which records must be retained for seven years after the relevant event, and how does the retention period differ between expense claims and employee personnel records?","docid":"dataretention"}
+{"question":"What is the escalation procedure if a P1 incident receives no acknowledgment within 10 minutes, and what is the emergency hotline number?","docid":"support_slas"}
